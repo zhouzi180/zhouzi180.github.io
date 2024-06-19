@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently a PhD student at Southern University of Science and Technology, Shenzhen, in the Department of Computer Science and Engineering, supervised by Prof. Shiqi Yu. Before that, I received a Master of Research degree from the University of Liverpool, supervised by Prof. Jimin Xiao, in 2022. I received my B. Eng. degree in Computer Science and Technology from Nanchang University in 2020.
 
-My research interests include medical imaging analysis and bioinformatics.
+My research interests include medical imaging analysis, bioinformatics, few-shot learning.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). --> 
 
@@ -32,6 +32,7 @@ My research interests include medical imaging analysis and bioinformatics.
 <div class='paper-box-text' markdown="1" -->
 
 - [Gait Patterns as Biomarkers: A Video-Based Approach for Classifying Scoliosis](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf), **Zirui Zhou**, Junhao Liang, Zizhao Peng, Chao Fan, Fengwei An, Shiqi Yu, **MICCAI 2024**
+- [Reliable Prototypical Memory Network for Few-Shot Video Object Segmentation](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf), **Zirui Zhou**, Shiqi Yu, Qi Fan, **PR (Under Review)**
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
