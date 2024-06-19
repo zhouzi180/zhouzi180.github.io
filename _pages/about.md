@@ -32,8 +32,8 @@ My research interests include medical imaging analysis, bioinformatics, few-shot
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div> 
 <div class='paper-box-text' markdown="1" -->
 
-- [Gait Patterns as Biomarkers: A Video-Based Approach for Classifying Scoliosis](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf), **Zirui Zhou**, Junhao Liang, Zizhao Peng, Chao Fan, Fengwei An, Shiqi Yu, **MICCAI 2024**
-- [Reliable Prototypical Memory Network for Few-Shot Video Object Segmentation](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf), **Zirui Zhou**, Shiqi Yu, Qi Fan, **PR (Under Review)**
+- [Gait Patterns as Biomarkers: A Video-Based Approach for Classifying Scoliosis](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf), **Zirui Zhou**, Junhao Liang, Zizhao Peng, Chao Fan, Fengwei An, Shiqi Yu. **MICCAI 2024**
+- [Reliable Prototypical Memory Network for Few-Shot Video Object Segmentation](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf), **Zirui Zhou**, Shiqi Yu, Qi Fan. **PR (Under Review)**
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
