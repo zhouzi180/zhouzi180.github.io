@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a PhD student at Southern University of Science and Technology, Shenzhen, in the Department of Computer Science and Engineering, supervised by Prof. Shiqi Yu. Before that, I received a Master of Research degree from the University of Liverpool, supervised by Prof. Jimin Xiao, in 2022. I received my B. Eng. degree in Computer Science and Technology from Nanchang University in 2020.
+I am currently a first-year PhD student at Southern University of Science and Technology, Shenzhen, in the Department of Computer Science and Engineering, supervised by Prof. Shiqi Yu. Before that, I received a Master of Research degree from the University of Liverpool, supervised by Prof. Jimin Xiao, in 2022. I received my B. Eng. degree in Computer Science and Technology from Nanchang University in 2020.
 
 My research interests include medical imaging analysis, bioinformatics, few-shot learning.
 
