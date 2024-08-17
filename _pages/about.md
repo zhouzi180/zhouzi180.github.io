@@ -42,11 +42,13 @@ My research interests include medical imaging analysis, bioinformatics and few-s
   [[Arxiv]]() / [[Project Page]]() / [[Code]]()
 
 
-- **Reliable Prototypical Memory Network for Few-Shot Video Object Segmentation**
+[//]: # (- **Reliable Prototypical Memory Network for Few-Shot Video Object Segmentation**)
 
-  **Zirui Zhou**, Shiqi Yu, Qi Fan
+[//]: # ()
+[//]: # (  **Zirui Zhou**, Shiqi Yu, Qi Fan)
 
-  Pattern Recognition (PR), Under Review
+[//]: # ()
+[//]: # (  Pattern Recognition &#40;PR&#41;, Under Review)
 
   [[Arxiv]]() / [[Project Page]]() / [[Code]]()
 
