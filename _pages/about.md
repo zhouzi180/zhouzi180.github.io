@@ -50,7 +50,7 @@ My research interests include medical imaging analysis, bioinformatics and few-s
 [//]: # ()
 [//]: # (  Pattern Recognition &#40;PR&#41;, Under Review)
 
-  [[Arxiv]]() / [[Project Page]]() / [[Code]]()
+[//]: # (  [[Arxiv]]&#40;&#41; / [[Project Page]]&#40;&#41; / [[Code]]&#40;&#41;)
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
