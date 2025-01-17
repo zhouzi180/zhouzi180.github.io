@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am currently a second-year PhD student at Southern University of Science and Technology, Shenzhen, in the Department of Computer Science and Engineering, supervised by Prof. Shiqi Yu. My research interests include gait in healthcare, medical image analysis and computer vision.
+I am currently a second-year PhD student at Southern University of Science and Technology, Shenzhen, in the Department of Computer Science and Engineering, supervised by Prof. Shiqi Yu. My research interests include gait in healthcare, medical image analysis, and computer vision.
 
 
 ## Research Interests
