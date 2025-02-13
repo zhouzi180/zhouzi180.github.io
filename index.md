@@ -4,20 +4,17 @@ layout: homepage
 
 ## About Me
 
-I am currently a second-year PhD student at Southern University of Science and Technology, Shenzhen, in the Department of Computer Science and Engineering, supervised by Prof. Shiqi Yu. My research interests include gait in healthcare, medical image analysis, and computer vision.
+I am a second-year PhD student in the Department of Computer Science and Engineering at Southern University of Science and Technology (SUSTech), Shenzhen, advised by Prof. Shiqi Yu. My research focuses on computer vision and machine learning for healthcare applications, particularly in vision-based human analysis.
 
 
 ## Research Interests
 
-- **Computer Vision:** gait in healthcare, medical image analysis, few-shot segmentation
+- **Computer Vision:** vision-based human analysis for healthcare applications, few-shot segmentation
 - **Machine Learning:** meta-learning, transfer learning, few-shot learning
 
 ## News
 
-- **[June. 2024]** Our paper about gait in healthcare is accepted to MICCAI 2024.
-<!-- - **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019. -->
+- **[June. 2024]** The first large-scale gait-based scoliosis screening benchmark ScoNet is accepted to MICCAI 2024.
 
 {% include_relative _includes/publications.md %}
 

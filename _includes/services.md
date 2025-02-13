@@ -4,6 +4,7 @@
 
 <ul style="margin:0 0 5px;">
   <li><a href="https://conferences.miccai.org/2024/en/"><autocolor>International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI) 2024</autocolor></a></li>
+    <li><a href="https://conferences.miccai.org/2025/en/"><autocolor>International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI) 2025</autocolor></a></li>
   <!-- <li><a href="http://iccv2021.thecvf.com/"><autocolor>IEEE/CVF International Conference on Computer Vision (ICCV) 2021</autocolor></a></li>
   <li><a href="https://eccv2022.ecva.net/"><autocolor>European Conference on Computer Vision (ECCV) 2022</autocolor></a></li> -->
 </ul>
