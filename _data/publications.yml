@@ -24,7 +24,7 @@ main:
     authors: <strong>Zirui Zhou</strong>, Zizhao Peng, Dongyang Jin, Chao Fan, Fengwei An, Shiqi Yu†
     conference_short: MICCAI
     conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2025.
-    pdf: https://arxiv.org/pdf/2407.05726
+    pdf: https://arxiv.org/pdf/2509.00872
     code: https://github.com/ShiqiYu/OpenGait/tree/master
     page: https://zhouzi180.github.io/Scoliosis1K/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
