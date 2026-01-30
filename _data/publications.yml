@@ -20,6 +20,18 @@ main:
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     # notes: Oral Presentation
     # image: ./assets/img/teaser_example.png
+  - title: "IntAttention: A Fully Integer Attention Pipeline for Efficient Edge Inference"
+    authors: Wanli Zhong, Haibo Feng, Zirui Zhou, Hanyang Peng, Shiqi Yu†
+    conference_short: MLSys
+    conference: Ninth Annual Conference on Machine Learning and Systems <strong>(MLSys)</strong>, 2026.
+    pdf: https://arxiv.org/pdf/2511.21513
+    # code: https://github.com/ShiqiYu/OpenGait/tree/master
+    # page: https://zhouzi180.github.io/Scoliosis1K/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/img/mlsys2026.png
+    # notes: Early Accept
+
   - title: "Pose as Clinical Prior: Learning Dual Representations for Scoliosis Screening"
     authors: <strong>Zirui Zhou</strong>, Zizhao Peng, Dongyang Jin, Chao Fan, Fengwei An, Shiqi Yu†
     conference_short: MICCAI
