@@ -21,9 +21,9 @@ main:
     # notes: Oral Presentation
     # image: ./assets/img/teaser_example.png
   - title: "IntAttention: A Fully Integer Attention Pipeline for Efficient Edge Inference"
-    authors: Wanli Zhong, Haibo Feng, Zirui Zhou, Hanyang Peng, Shiqi Yu†
+    authors: Wanli Zhong, Haibo Feng, <strong>Zirui Zhou</strong>, Hanyang Peng, Shiqi Yu†
     conference_short: MLSys
-    conference: Ninth Annual Conference on Machine Learning and Systems <strong>(MLSys)</strong>, 2026.
+    conference: Conference on Machine Learning and Systems <strong>(MLSys)</strong>, 2026.
     pdf: https://arxiv.org/pdf/2511.21513
     # code: https://github.com/ShiqiYu/OpenGait/tree/master
     # page: https://zhouzi180.github.io/Scoliosis1K/
