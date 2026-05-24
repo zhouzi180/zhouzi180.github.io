@@ -29,7 +29,7 @@ main:
     # page: https://zhouzi180.github.io/Scoliosis1K/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     # notes: Oral Presentation
-    image: ./assets/img/fg2026.pdf
+    image: ./assets/img/fg2026.png
     # notes: Early Accept
 
   - title: "IntAttention: A Fully Integer Attention Pipeline for Efficient Edge Inference"
