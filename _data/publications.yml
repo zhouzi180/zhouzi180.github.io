@@ -22,8 +22,8 @@ main:
     # image: ./assets/img/teaser_example.png
   - title: "Repurposing Gait Recognition Priors for Generalizable Fine-Grained Parkinson’s Disease Assessment"
     authors: Junzhe Gong*, <strong>Zirui Zhou*</strong>, Shaopu Wu, Xue Li, Shiqi Yu†
-    conference_short: MLSys
-    conference: Conference on Machine Learning and Systems <strong>(MLSys)</strong>, 2026.
+    conference_short: FG
+    conference: IEEE International Conference on Automatic Face and Gesture Recognition <strong>(FG)</strong>, 2026.
     pdf: https://arxiv.org/pdf/2511.21513
     # code: https://github.com/ShiqiYu/OpenGait/tree/master
     # page: https://zhouzi180.github.io/Scoliosis1K/
